@@ -1,6 +1,6 @@
 # 🦀 Rust Custom Selectable List
 
-This package uses _[crossterm](https://crates.io/crates/crossterm)_ to create a custom selectable list.
+This example uses _[crossterm](https://crates.io/crates/crossterm)_ to create a custom selectable list.
 
 
 ### Example

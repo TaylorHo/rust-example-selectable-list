@@ -100,7 +100,7 @@ fn main() {
             io::stdout(),
             cursor::Hide,
             style::PrintStyledContent(
-                style::style("\n\nWelcome to the Selectable List Example!\n\n").bold()
+                style::style("\n\n🦀 Welcome to the Selectable List Example!\n\n").bold()
             )
         )
         .unwrap();
